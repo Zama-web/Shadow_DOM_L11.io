@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+}
+
+hello-tag{
+    display: flex;
+    flex-direction: column;
+    background-color: #3498db;
+    box-shadow: 10px 10px 10px #2c3e50;
+    width: 150px;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+p{
+	color: white;
+}
